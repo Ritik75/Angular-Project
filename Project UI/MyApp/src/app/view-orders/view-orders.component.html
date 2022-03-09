@@ -1,0 +1,44 @@
+<div class="order">
+    <div>
+        <mat-toolbar class="main-header" color="primary">
+            <button mat-button (click)="goToHome()">Hoopla</button>
+
+            <div class="header">
+                <button mat-button>Welcome {{emailId}}</button>
+                <button mat-button>View orders</button>
+                <button mat-button (click)="logout()">Logout</button>
+            </div>
+
+        </mat-toolbar>
+    </div>
+
+
+    <div class="row" style="margin: 20px 0 0 0;">
+        <div class="offset-2 col-10">
+            <h3 style="color:white;">My Orders</h3>
+        </div>
+    </div>
+    <div class="row" style="margin: 20px 0 0 0;">
+        <div class="offset-2 col-8" *ngFor="let order of orders">
+            <mat-card>
+                <div class="row">
+                    <div class="col-6">
+                        <h4>Order Id</h4>
+                        {{order.orderId}}
+                    </div>
+                    <div class="col-6">
+                        <h4>Product Id</h4>
+                        <a [routerLink]="['/product/'+this.emailId+'/'+order.prodId[0]]">{{order.prodId[0]}}</a>
+                    </div>
+                </div>
+                <mat-card-actions align="end">
+                    Ordered on &nbsp;<b>{{order.date | date:'fullDate'}}</b>
+                    <span class="fl"></span>
+                    <div><b>Total price = &nbsp;</b></div>
+                    <div>{{order.price | currency:"INR":"symbol":"3.0-0"}}</div>
+                </mat-card-actions>
+            </mat-card>
+            <br>
+        </div>
+    </div>
+</div>

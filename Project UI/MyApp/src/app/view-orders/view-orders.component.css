@@ -1,0 +1,9 @@
+.main-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.order{
+    background-image: url("../../assets/back.jpg");
+    min-height: 100vh;
+}

@@ -1,0 +1,503 @@
+Mon Apr 13 2020 22:23:10 GMT+0530 (India Standard Time) - ReferenceError: data is not defined
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\dbsetup.js:85:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 22:25:41 GMT+0530 (India Standard Time) - ReferenceError: data is not defined
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\dbsetup.js:85:17
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 22:40:29 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 22:47:42 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 22:50:56 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 22:51:27 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 22:51:29 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 22:51:30 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 22:51:30 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 22:51:30 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 22:51:30 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 22:52:09 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 22:53:24 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 23:05:52 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 23:06:03 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 23:06:45 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Mon Apr 13 2020 23:06:49 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'password' of null
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWs\src\model\users.js:8:21
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 08:05:37 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 18:48:04 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 18:50:56 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 18:51:21 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 18:51:32 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 18:53:20 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 18:53:44 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 18:56:11 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 18:56:35 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:01:43 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:02:06 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:02:57 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:03:23 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:04:23 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:04:46 GMT+0530 (India Standard Time) - CastError: Cast to string failed for value "{}" at path "orders"
+    at new CastError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\model\users.js:29:88
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:05:41 GMT+0530 (India Standard Time) - CastError: Cast to string failed for value "{}" at path "orders"
+    at new CastError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\model\users.js:29:88
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:06:29 GMT+0530 (India Standard Time) - CastError: Cast to string failed for value "{}" at path "orders"
+    at new CastError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\model\users.js:29:88
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:09:39 GMT+0530 (India Standard Time) - CastError: Cast to string failed for value "{}" at path "orders"
+    at new CastError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\model\users.js:29:88
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:10:31 GMT+0530 (India Standard Time) - CastError: Cast to string failed for value "{}" at path "orders"
+    at new CastError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\model\users.js:29:88
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:34:35 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:35:26 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:58:46 GMT+0530 (India Standard Time) - Error: No orders yet
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:47:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:59:23 GMT+0530 (India Standard Time) - Error: No orders yet
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:47:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 19:59:59 GMT+0530 (India Standard Time) - Error: No orders yet
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:47:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Tue Apr 14 2020 20:00:45 GMT+0530 (India Standard Time) - Error: No orders yet
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:47:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 07:45:47 GMT+0530 (India Standard Time) - ReferenceError: prodId is not defined
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\routes\routing.js:36:29
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:284:7
+Wed Apr 15 2020 07:46:27 GMT+0530 (India Standard Time) - ReferenceError: prodId is not defined
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\routes\routing.js:36:29
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:284:7
+Wed Apr 15 2020 07:46:35 GMT+0530 (India Standard Time) - ReferenceError: prodId is not defined
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\routes\routing.js:36:29
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:284:7
+Wed Apr 15 2020 07:47:24 GMT+0530 (India Standard Time) - ReferenceError: prodId is not defined
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\routes\routing.js:36:29
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:284:7
+Wed Apr 15 2020 07:47:45 GMT+0530 (India Standard Time) - CastError: Cast to string failed for value "Orders { prodId: '1001' }" at path "orders"
+    at new CastError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\error\cast.js:29:11)
+    at model.Query.exec (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\query.js:4340:21)
+    at model.Query.Query.then (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\query.js:4432:15)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\model\users.js:39:87
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 07:53:50 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: Shopping.Customer index: orders.orderId_1 dup key: { orders.orderId: null }
+    at Function.create (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\operations\common_functions.js:376:39
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Wed Apr 15 2020 07:54:59 GMT+0530 (India Standard Time) - MongoError: E11000 duplicate key error collection: Shopping.Customer index: orders.orderId_1 dup key: { orders.orderId: null }
+    at Function.create (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\operations\common_functions.js:376:39
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Wed Apr 15 2020 07:57:34 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 08:03:59 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 08:05:21 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 08:05:58 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 08:22:20 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 08:22:47 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 08:23:41 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 08:24:14 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 08:24:46 GMT+0530 (India Standard Time) - ReferenceError: emailId is not defined
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\routes\routing.js:37:23
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:284:7
+Wed Apr 15 2020 08:25:02 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 11:41:54 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'prodId' of undefined
+    at new Orders (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\model\orders.js:5:30)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\routes\routing.js:35:17
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:317:13)
+Wed Apr 15 2020 11:42:04 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'prodId' of undefined
+    at new Orders (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\model\orders.js:5:30)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\routes\routing.js:35:17
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:317:13)
+Wed Apr 15 2020 11:42:19 GMT+0530 (India Standard Time) - TypeError: Cannot read property 'prodId' of undefined
+    at new Orders (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\model\orders.js:5:30)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\routes\routing.js:35:17
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:281:22
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:354:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at param (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:365:14)
+    at Function.process_params (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:410:3)
+    at next (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\express\lib\router\index.js:317:13)
+Wed Apr 15 2020 13:28:40 GMT+0530 (India Standard Time) - ValidationError: Customer validation failed: orders.0.date: Cast to Date failed for value "28-03-2020" at path "date"
+    at new ValidationError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\error\validation.js:31:11)
+    at model.Document.invalidate (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\document.js:2554:32)
+    at EmbeddedDocument.invalidate (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\types\embedded.js:291:29)
+    at EmbeddedDocument.$set (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\document.js:1235:12)
+    at EmbeddedDocument._handleIndex (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\document.js:975:14)
+    at EmbeddedDocument.$set (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\document.js:917:22)
+    at EmbeddedDocument.Document (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\document.js:136:12)
+    at EmbeddedDocument [as constructor] (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\types\embedded.js:42:12)
+    at new EmbeddedDocument (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\schema\documentarray.js:115:17)
+    at DocumentArrayPath.cast (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\schema\documentarray.js:437:22)
+    at DocumentArrayPath.SchemaType.applySetters (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\schematype.js:1010:12)
+    at model.$set (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\document.js:1199:20)
+    at model._handleIndex (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\document.js:975:14)
+    at model.$set (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\document.js:917:22)
+    at model.Document (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\document.js:136:12)
+    at model.Model (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongoose\lib\model.js:104:12)
+Wed Apr 15 2020 16:32:43 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:11:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 16:32:43 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:11:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 21:16:35 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 21:17:10 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 21:17:46 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 21:20:17 GMT+0530 (India Standard Time) - MongoError: The positional operator did not find the match needed from the query.
+    at Function.create (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\operations\common_functions.js:376:39
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Wed Apr 15 2020 21:20:26 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 21:22:01 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 21:22:48 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 21:23:11 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 21:23:21 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Wed Apr 15 2020 21:25:48 GMT+0530 (India Standard Time) - MongoError: The positional operator did not find the match needed from the query.
+    at Function.create (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\operations\common_functions.js:376:39
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Wed Apr 15 2020 21:27:02 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 07:30:50 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 07:31:16 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 07:31:26 GMT+0530 (India Standard Time) - MongoError: The positional operator did not find the match needed from the query.
+    at Function.create (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\operations\common_functions.js:376:39
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Thu Apr 16 2020 07:33:21 GMT+0530 (India Standard Time) - MongoError: Cannot create field 'pQuantity' in element {pSeller: [ { _id: ObjectId('5e972c55754592d2102910c5'), sId: "Xiaomi@Seller", pDiscount: 0.2, pQuantity: 665, pShippingCharges: 150 } ]}
+    at Function.create (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\operations\common_functions.js:376:39
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Thu Apr 16 2020 07:34:10 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 07:34:16 GMT+0530 (India Standard Time) - MongoError: Cannot create field 'pQuantity' in element {pSeller: [ { _id: ObjectId('5e972c55754592d2102910c7'), sId: "Moto@Seller", pDiscount: 0.2, pQuantity: 666, pShippingCharges: 150 } ]}
+    at Function.create (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\error.js:43:12)
+    at toError (C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\utils.js:149:22)
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\operations\common_functions.js:376:39
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\node_modules\mongodb\lib\core\connection\pool.js:404:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+Thu Apr 16 2020 07:40:37 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 07:40:55 GMT+0530 (India Standard Time) - Error: Invalid Email Id
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:35:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 08:12:38 GMT+0530 (India Standard Time) - Error: No product found
+    at C:\Users\balav\OneDrive\Desktop\project\ProjectWS\src\service\users.js:59:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 12:45:35 GMT+0530 (India Standard Time) - Error: Could not connect to Database
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\utilities\connection.js:50:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 12:45:59 GMT+0530 (India Standard Time) - Error: Could not connect to Database
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\utilities\connection.js:50:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 12:46:21 GMT+0530 (India Standard Time) - Error: Could not connect to Database
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\utilities\connection.js:50:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 12:46:30 GMT+0530 (India Standard Time) - Error: Could not connect to Database
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\utilities\connection.js:50:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 12:46:31 GMT+0530 (India Standard Time) - Error: Could not connect to Database
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\utilities\connection.js:50:19
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 12:48:55 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Thu Apr 16 2020 16:55:29 GMT+0530 (India Standard Time) - Error: Could not connect to Database
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\utilities\connection.js:50:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at runNextTicks (internal/process/task_queues.js:66:3)
+    at processTimers (internal/timers.js:489:9)
+Fri Apr 17 2020 12:20:42 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri Apr 17 2020 12:20:48 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri Apr 17 2020 15:49:47 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri Apr 17 2020 15:57:24 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri Apr 17 2020 16:13:39 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri Apr 17 2020 16:16:52 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri Apr 17 2020 18:09:16 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri Apr 17 2020 19:03:05 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri Apr 17 2020 21:55:58 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri Apr 17 2020 21:56:10 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri Apr 17 2020 21:56:28 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri Apr 17 2020 21:57:07 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Fri Apr 17 2020 23:00:46 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sat Apr 18 2020 14:28:27 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sat Apr 18 2020 16:04:09 GMT+0530 (India Standard Time) - Error: Could not connect to Database
+    at C:\Users\Sruthi\Desktop\ProjectWS3\ProjectWS\src\utilities\connection.js:50:19
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+Sat Jul 11 2020 17:11:39 GMT+0530 (India Standard Time) - Error: Invalid email id or password
+    at C:\Users\Ritik\Desktop\INFOSYS\Final infosys project\Project back\src\service\users.js:11:23
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)

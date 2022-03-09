@@ -1,0 +1,21 @@
+
+img{
+    width:100%;
+    height: auto;
+}
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.tool {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.image{
+    background-image: url("../../assets/12345.jpg");
+    height: 100vh;
+}

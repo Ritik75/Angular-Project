@@ -1,0 +1,110 @@
+<mat-toolbar class="main-header" color="primary">
+    <button mat-button>Hoopla</button>
+
+    <div class="header">
+        <button mat-button>Welcome {{emailId}}</button>
+        <button mat-button (click)="view()">View orders</button>
+        <button mat-button (click)="logout()">Logout</button>
+    </div>
+
+</mat-toolbar>
+
+
+<mat-toolbar class="tool">
+    <div>
+        <button mat-button (click)="display('All')">All</button>
+        <button mat-button (click)="display('Electronics')">Electronics</button>
+        <button mat-button (click)="display('Shoes')">Shoes</button>
+        <button mat-button (click)="display('Furniture')">Furniture</button>
+        <button mat-button (click)="display('Clothing')">Clothing</button>
+    </div>
+    <div>
+        <form #searchBar="ngForm" (ngSubmit)="show()"></form>
+        <input style="height:30px;" type="text" [(ngModel)]="search">
+        <button mat-raised-button color="accent" (click)="show()">Search</button>
+    </div>
+</mat-toolbar>
+
+<div class="main-body">
+    <div class="row" *ngIf="products" style="margin: 20px 0 0 0;">
+            <div class="col-md-3" *ngFor="let product of products">
+                <mat-card class="product-card">
+                    <div class="product-image-container">
+                        <img [src]="'../../assets/'+product.image" class="product-image" [alt]="product.image"
+                            (click)="prodDesc(product.id)">
+                    </div><br>
+                    <mat-card-content (click)="prodDesc(product.id)">
+                        <div class="text-primary">
+                            <h4>{{product.pName}}</h4>
+                        </div>
+                    
+                        <span [matBadge]="product.pRating" matBadgePosition="below after" matBadgeColor="accent"
+                            matBadgeOverlap="false">{{product.pDescription}}</span>
+
+                    </mat-card-content>
+                    <div class="wrapper">
+                    <mat-card-actions><button  mat-flat-button color="primary" (click)="buy(product.id)"
+                            *ngIf="product.pSeller[0].pQuantity!=0">Buy Now</button>
+                        <button  mat-flat-button color="accent" *ngIf="product.pSeller[0].pQuantity==0"
+                            (click)="snackBar()">Notify Me</button>
+                        
+                        <div
+                            (click)="prodDesc(product.id)"><b>{{(product.price*(1-product.pSeller[0].pDiscount)) | currency:"INR":"symbol":"3.0-0"}}</b></div>
+                    </mat-card-actions>
+                    </div>
+                    <div (click)="prodDesc(product.id)"><del
+                            class="text-secondary">{{product.price | currency:'INR':'symbol'}}</del></div>
+                    <div class="text-danger" *ngIf="product.pSeller[0].pQuantity==0">Out of stock!</div>
+                </mat-card>
+                <br>
+            </div>
+    </div>
+</div>
+
+
+<div class="cara">
+    <carousel *ngIf="data">
+        <slide>
+            <img src="../../assets/footer-form-background.jpg" alt="first slide"
+                style="height:528.5px;display: block; width: 100%;" class="car">
+            <div class="carousel-caption d-none d-md-block">
+                <h3>Electronics</h3>
+            </div>
+        </slide>
+        <slide>
+            <img src="../../assets/Furniture.jpg" alt="second slide"
+                style=" height:528.5px;display: block; width: 100%;" class="car">
+            <div class="carousel-caption d-none d-md-block">
+                <h3>Furniture</h3>
+            </div>
+        </slide>
+        <slide>
+            <img src="../../assets/elec.jpg" alt="third slide" style="height:528.5px;display: block; width: 100%;"
+                class="car">
+            <div class="carousel-caption d-none d-md-block">
+                <h3>Electronics</h3>
+            </div>
+        </slide>
+        <slide>
+            <img src="../../assets/Men ethnic.jpg" alt="second slide"
+                style=" height:528.5px;display: block; width: 100%;" class="car">
+            <div class="carousel-caption d-none d-md-block">
+                <h3>Clothing</h3>
+            </div>
+        </slide>
+        <slide>
+            <img src="../../assets/elect.jpg" alt="second slide"
+                style=" height:528.5px;display: block; width: 100%;" class="car">
+            <div class="carousel-caption d-none d-md-block">
+                <h3>Electronics</h3>
+            </div>
+        </slide>
+        <slide>
+            <img src="../../assets/Furniture-Cover.jpg" alt="second slide"
+                style=" height:528.5px;display: block; width: 100%;" class="car">
+            <div class="carousel-caption d-none d-md-block">
+                <h3>Furniture</h3>
+            </div>
+        </slide>
+    </carousel>
+</div>

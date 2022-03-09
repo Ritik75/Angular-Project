@@ -1,0 +1,50 @@
+
+<mat-toolbar class="main-header" color="primary">
+  <button mat-button [routerLink]="['dashboard',emailId]">Hoopla</button>
+  <span *ngIf="emailId;else nope">
+    <button mat-button>Welcome {{emailId}}</button>
+    <button mat-button (click)="view()">View orders</button>
+    <button mat-button (click)="logout()">Logout</button>
+  </span>
+  <ng-template #nope>
+    <button mat-button (click)="login='true'">Login</button>
+  </ng-template>
+</mat-toolbar>
+
+<div class="main-body">
+    <mat-card>
+    <div class="form-data">
+      <div class="body-head">Login</div>
+      <form [formGroup]="form" (ngSubmit)="login()">
+      <div>
+        <mat-form-field appearance="outline">
+          <mat-label>Username</mat-label>
+          <input type="email" matInput placeholder="Enter emailId" formControlName="emailId">
+          <mat-error *ngIf="form.controls.emailId.errors?.email">*Field required</mat-error>
+          <mat-error *ngIf="form.controls.emailId.errors?.required">*Field required</mat-error>
+        </mat-form-field>
+      </div>
+      
+      <div>
+        <mat-form-field appearance="outline">
+          <mat-label>Password</mat-label>
+          <input type="password" matInput placeholder="Password" formControlName="password">
+          <mat-error *ngIf="form.controls.password.errors?.required">*Field required</mat-error>
+          <mat-error>
+          <div *ngIf="form.controls.password.errors?.passwordError">
+            {{form.controls.password.errors?.passwordError.message}}
+          </div></mat-error>
+        </mat-form-field>
+
+      </div>
+      
+      <div class="login-btn">
+        <button mat-raised-button color="primary" [disabled]="!form.valid" >
+          LOGIN
+        </button>
+      </div>
+      <div *ngIf="errorMessage" class="text-danger">{{errorMessage}}</div>
+    </form>
+    </div>
+  </mat-card>
+  </div>

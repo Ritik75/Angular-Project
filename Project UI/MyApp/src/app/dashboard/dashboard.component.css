@@ -1,0 +1,61 @@
+.tool {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fill{
+    flex: 1 1 auto;
+}
+
+.product-card {
+    height: 450px;
+    max-height: 450px;
+}
+
+.text-primary h4 {
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.sty{
+    border: 1px solid black;
+    border-radius: 30px;
+    padding: 5px;
+}
+
+img{
+    display: flex;
+    height: 200px;
+    padding: 10px;
+    object-fit: contain;
+    width: 300px;
+}
+
+.car{
+    max-height: 800px;
+}
+
+
+.main-body{
+    background-image: url("../../assets/back1.jpg");
+    position: absolute;
+    width: 100%;
+   
+}
+
+.car{
+    background-image: url("../../assets/fundo.jpg");
+}
+
+.wrapper{
+    text-align: center;
+}
+
+
